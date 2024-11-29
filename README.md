@@ -1,7 +1,3 @@
-Here's a summary and a GitHub-ready **README.md** file for your weather prediction project:
-
----
-
 # Weather Prediction Using Machine Learning
 
 This project focuses on building machine learning models to predict weather conditions, such as temperature, humidity, or rainfall, based on historical weather data. Multiple regression and tree-based models were utilized to achieve accurate predictions.
@@ -78,7 +74,3 @@ The project utilizes the following Python libraries:
 ## 🔗 Acknowledgments
 - Historical weather dataset sourced from [publicly available datasets](https://www.kaggle.com/).
 - Thanks to Scikit-learn for providing robust tools for machine learning.
-
----
-
-Feel free to modify the placeholders (e.g., `your-username`, dataset link, and performance metrics) to reflect your project specifics!
